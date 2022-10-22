@@ -1,3 +1,12 @@
+#
+#Author: Xlin0mu
+#Date: 2022-10-22 23:55
+#LastEditTime: 2022-10-23 02:08
+#Description: Description
+#Edited by TAMRIKer
+#Copyright (c) 2022 by Xlin0mu, All Rights Reserved. 
+#
+
 #read file and preprocess it
 
 
